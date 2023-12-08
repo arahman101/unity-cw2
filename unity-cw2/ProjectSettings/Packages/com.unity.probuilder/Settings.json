@@ -129,7 +129,7 @@
             {
                 "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "ShapeBuilder.ActiveShapeIndex",
-                "value": "{\"m_Value\":1}"
+                "value": "{\"m_Value\":8}"
             },
             {
                 "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -149,15 +149,11 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize",
-<<<<<<< HEAD
-<<<<<<< HEAD
+
                 "value": "{\"m_Value\":{\"x\":18.2845458984375,\"y\":23.053634643554689,\"z\":-22.259254455566408}}"
-=======
                 "value": "{\"m_Value\":{\"x\":3.178335189819336,\"y\":0.0,\"z\":2.383192777633667}}"
->>>>>>> 11b90114d2dbdb6d472e8f33b6025fdc6d362217
-=======
                 "value": "{\"m_Value\":{\"x\":-22.529273986816408,\"y\":0.0,\"z\":-12.222640991210938}}"
->>>>>>> Mirror_Maze
+                "value": "{\"m_Value\":{\"x\":47.99884796142578,\"y\":121.63943481445313,\"z\":184.51315307617188}}"
             },
             {
                 "type": "UnityEngine.Quaternion, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -193,8 +189,6 @@
                 "type": "UnityEngine.ProBuilder.Shapes.Shape, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.Sprite",
                 "value": "{}"
-<<<<<<< HEAD
-=======
             },
             {
                 "type": "UnityEngine.ProBuilder.Shapes.Shape, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -205,7 +199,6 @@
                 "type": "UnityEngine.ProBuilder.Shapes.Shape, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.Cube",
                 "value": "{}"
->>>>>>> Mirror_Maze
             }
         ]
     }
